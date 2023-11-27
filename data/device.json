@@ -1,0 +1,18 @@
+{
+  "--begin--": "该设备为随机生成，丢失后不能得到原先配置",
+  "product": "ICQQ-5E402",
+  "device": "0C453",
+  "board": "24C52",
+  "brand": "7967",
+  "model": "ICQQ 62BC",
+  "wifi_ssid": "HUAWEI-42603c4",
+  "bootloader": "U-boot",
+  "display": "IC.5806315.5012",
+  "boot_id": "ac7849c3-e059-fc5f-c886-fce0387a5751",
+  "proc_version": "Linux version 5.10.101-android10-3abfbd62",
+  "mac_address": "02:00:00:00:00:00",
+  "ip_address": "192.168.77.37",
+  "android_id": "2a17d4871d2be56f",
+  "incremental": "9136914700",
+  "--end--": "修改后可能需要重新验证设备。"
+}

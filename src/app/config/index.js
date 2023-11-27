@@ -1,6 +1,5 @@
 const dotenv = require("dotenv")
 dotenv.config()
-
 module.exports = {
   MQTT_PORT,
   MQTT_HOST,
